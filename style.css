@@ -10,6 +10,9 @@
 .box2 {
     display: flex;
     justify-content: center;
-    gap: 12px;
+    gap: 120px;
+}
+.box2 div {
     background: #ffffff;
+    padding: 20px;
 }
