@@ -1,0 +1,15 @@
+#header {
+    color: #ffffff;
+    font-size: 30px;
+    background: #56a3c2;
+}
+#box1 {
+    padding: 10px;
+    background: #edfbc7;
+}
+.box2 {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    background: #ffffff;
+}
